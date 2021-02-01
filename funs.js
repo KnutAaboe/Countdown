@@ -1,6 +1,9 @@
 "use strict";
 
-
+//TODO
+//More pretty time and date layout
+//Able to put in date and time
+//Countdown 
 
 function norwegian(){
   var format = "D DD-MM-YYYY DDD"

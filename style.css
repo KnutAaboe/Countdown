@@ -4,7 +4,7 @@
 
 body {
   /* background-color: rgb(139, 87, 85); */
-  background-image: url("rain.jpg");
+  background-image: url("Rain.jpg");
   background-size: cover;
   background-color: rgba(0, 0, 0, 0.2);
   background-blend-mode: multiply;
